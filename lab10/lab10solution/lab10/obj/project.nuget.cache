@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+HA2p5Ln0s=",
+  "success": true,
+  "projectFilePath": "D:\\lab10\\lab10solution\\lab10\\lab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

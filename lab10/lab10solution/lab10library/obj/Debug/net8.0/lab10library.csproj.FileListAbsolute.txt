@@ -1,0 +1,4 @@
+D:\lab10\lab10solution\lab10library\obj\Debug\net8.0\lab10library.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab10\lab10solution\lab10library\obj\Debug\net8.0\lab10library.AssemblyInfoInputs.cache
+D:\lab10\lab10solution\lab10library\obj\Debug\net8.0\lab10library.AssemblyInfo.cs
+D:\lab10\lab10solution\lab10library\obj\Debug\net8.0\lab10library.csproj.CoreCompileInputs.cache
