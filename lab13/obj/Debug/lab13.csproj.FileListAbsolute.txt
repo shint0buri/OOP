@@ -1,0 +1,10 @@
+C:\Users\Zalman2\source\repos\lab13\bin\Debug\lab13.exe.config
+C:\Users\Zalman2\source\repos\lab13\bin\Debug\lab13.exe
+C:\Users\Zalman2\source\repos\lab13\bin\Debug\lab13.pdb
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\Lab13_Var16.MainForm.resources
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.exe
+C:\Users\Zalman2\source\repos\lab13\obj\Debug\lab13.pdb
