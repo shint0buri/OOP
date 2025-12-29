@@ -1,0 +1,9 @@
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab15\bin\Debug\lab15.exe.config
+C:\Users\Zalman2\source\repos\lab15\bin\Debug\lab15.exe
+C:\Users\Zalman2\source\repos\lab15\bin\Debug\lab15.pdb
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.exe
+C:\Users\Zalman2\source\repos\lab15\obj\Debug\lab15.pdb
