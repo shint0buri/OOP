@@ -1,0 +1,10 @@
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.Properties.Resources.resources
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\Lab12_Var16_Corrected.Form1.resources
+C:\Users\Zalman2\source\repos\lab12solution\lab12\bin\Debug\lab12.exe.config
+C:\Users\Zalman2\source\repos\lab12solution\lab12\bin\Debug\lab12.exe
+C:\Users\Zalman2\source\repos\lab12solution\lab12\bin\Debug\lab12.pdb
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.exe
+C:\Users\Zalman2\source\repos\lab12solution\lab12\obj\Debug\lab12.pdb
