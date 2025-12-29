@@ -1,0 +1,14 @@
+C:\Users\Zalman2\source\repos\lab11solution\lab11\bin\Debug\net8.0\lab11.exe
+C:\Users\Zalman2\source\repos\lab11solution\lab11\bin\Debug\net8.0\lab11.deps.json
+C:\Users\Zalman2\source\repos\lab11solution\lab11\bin\Debug\net8.0\lab11.runtimeconfig.json
+C:\Users\Zalman2\source\repos\lab11solution\lab11\bin\Debug\net8.0\lab11.dll
+C:\Users\Zalman2\source\repos\lab11solution\lab11\bin\Debug\net8.0\lab11.pdb
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.AssemblyInfoInputs.cache
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.AssemblyInfo.cs
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.dll
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\refint\lab11.dll
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.pdb
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\lab11.genruntimeconfig.cache
+C:\Users\Zalman2\source\repos\lab11solution\lab11\obj\Debug\net8.0\ref\lab11.dll

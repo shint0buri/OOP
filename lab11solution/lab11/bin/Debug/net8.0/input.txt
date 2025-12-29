@@ -1,0 +1,9 @@
+ID,Name,Category,Salary,HasDiploma
+1,Иванов,IT,45000,true
+2,Петров,HR,55000,false
+3,Сидорова,Finance,48000,true
+4,Кузнецова,IT,62000,true
+5,Морозов,HR,35000,false
+6,Волкова,Finance,70000,true
+7,Лебедев,IT,49000,false
+8,Григорьева,HR,51000,true
