@@ -1,0 +1,14 @@
+C:\Users\Zalman2\source\repos\lab22\bin\Debug\net8.0\lab22.exe
+C:\Users\Zalman2\source\repos\lab22\bin\Debug\net8.0\lab22.deps.json
+C:\Users\Zalman2\source\repos\lab22\bin\Debug\net8.0\lab22.runtimeconfig.json
+C:\Users\Zalman2\source\repos\lab22\bin\Debug\net8.0\lab22.dll
+C:\Users\Zalman2\source\repos\lab22\bin\Debug\net8.0\lab22.pdb
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.AssemblyInfoInputs.cache
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.AssemblyInfo.cs
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.dll
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\refint\lab22.dll
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.pdb
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\lab22.genruntimeconfig.cache
+C:\Users\Zalman2\source\repos\lab22\obj\Debug\net8.0\ref\lab22.dll
