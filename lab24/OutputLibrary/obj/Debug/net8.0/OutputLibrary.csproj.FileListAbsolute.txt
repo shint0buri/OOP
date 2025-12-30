@@ -1,0 +1,15 @@
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\bin\Debug\net8.0\OutputLibrary.deps.json
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\bin\Debug\net8.0\OutputLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\bin\Debug\net8.0\OutputLibrary.pdb
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\bin\Debug\net8.0\GeometryLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\bin\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.AssemblyInfoInputs.cache
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.AssemblyInfo.cs
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLi.CACF0F62.Up2Date
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\refint\OutputLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\OutputLibrary.pdb
+C:\Users\Zalman2\source\repos\lab24\OutputLibrary\obj\Debug\net8.0\ref\OutputLibrary.dll

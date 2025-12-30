@@ -1,0 +1,11 @@
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.deps.json
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\refint\GeometryLibrary.dll
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\Zalman2\source\repos\lab24\GeometryLibrary\obj\Debug\net8.0\ref\GeometryLibrary.dll

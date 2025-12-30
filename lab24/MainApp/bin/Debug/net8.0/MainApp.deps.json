@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MainApp/1.0.0": {
+        "dependencies": {
+          "GeometryLibrary": "1.0.0",
+          "OutputLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MainApp.dll": {}
+        }
+      },
+      "GeometryLibrary/1.0.0": {
+        "runtime": {
+          "GeometryLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OutputLibrary/1.0.0": {
+        "dependencies": {
+          "GeometryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OutputLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OutputLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
