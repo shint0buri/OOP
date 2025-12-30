@@ -1,0 +1,52 @@
+﻿<Window x:Class="lab20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Лабораторная работа №20 — Вариант 16" Height="500" Width="600">
+    <Window.Resources>
+       
+        <SolidColorBrush x:Key="MyColorBrush" Color="LightGreen"/>
+       
+        <FontFamily x:Key="DefaultFont">Arial</FontFamily>
+        <FontFamily x:Key="AltFont">Times New Roman</FontFamily>
+    </Window.Resources>
+
+    <ScrollViewer>
+        <StackPanel Margin="15">
+            
+            <Label Content="1. Привязка целочисленного значения (Slider → TextBox)" FontWeight="Bold"/>
+            <Slider Name="sldNumber" Minimum="0" Maximum="100" Value="50" Margin="0,5"/>
+            <TextBox Text="{Binding ElementName=sldNumber, Path=Value, Mode=OneWay}" Margin="0,0,0,15"/>
+
+            
+            <Label Content="2. Привязка логического значения (CheckBox → TextBlock)" FontWeight="Bold"/>
+            <CheckBox Name="chkFlag" Content="Включить функцию" Margin="0,5"/>
+            <TextBlock Text="{Binding ElementName=chkFlag, Path=IsChecked, Mode=OneWay}" Margin="0,0,0,15"/>
+
+           
+            <Label Content="3. Привязка шрифта (ComboBox → TextBlock.FontFamily)" FontWeight="Bold"/>
+            <ComboBox Name="cmbFonts" SelectedIndex="0" Margin="0,5">
+                <ComboBoxItem Content="Arial"/>
+                <ComboBoxItem Content="Times New Roman"/>
+                <ComboBoxItem Content="Courier New"/>
+            </ComboBox>
+            <TextBlock Text="Пример шрифта"
+                       FontFamily="{Binding ElementName=cmbFonts, Path=SelectedItem.Content, Mode=TwoWay}"
+                       FontSize="18" Margin="0,0,0,15"/>
+
+           
+            <Label Content="4. Привязка цвета ( SolidColorBrush → Rectangle.Fill, режим OneTime)" FontWeight="Bold"/>
+            <Rectangle Fill="{StaticResource MyColorBrush}" Width="120" Height="60" Margin="0,5,0,15"/>
+
+            <Label Content="5. Динамическая привязка (к свойству в коде)" FontWeight="Bold"/>
+            <TextBlock Name="lblDynamic" Text="Нажмите кнопку для привязки" Margin="0,5"/>
+            <Button Content="Создать динамическую привязку" Click="BtnDynamic_Click" Margin="0,5,0,15"/>
+
+           
+            <Button Content="Установить FontFamily вручную (нарушит TwoWay, если не Default)" 
+                    Click="BtnSetFont_Click" Margin="0,10"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
