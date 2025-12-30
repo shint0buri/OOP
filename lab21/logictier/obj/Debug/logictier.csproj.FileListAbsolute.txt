@@ -1,0 +1,9 @@
+C:\Users\Zalman2\source\repos\lab21\logictier\bin\Debug\logictier.dll
+C:\Users\Zalman2\source\repos\lab21\logictier\bin\Debug\logictier.pdb
+C:\Users\Zalman2\source\repos\lab21\logictier\bin\Debug\datatier.dll
+C:\Users\Zalman2\source\repos\lab21\logictier\bin\Debug\datatier.pdb
+C:\Users\Zalman2\source\repos\lab21\logictier\obj\Debug\logictier.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab21\logictier\obj\Debug\logictier.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab21\logictier\obj\Debug\logictier.csproj.Up2Date
+C:\Users\Zalman2\source\repos\lab21\logictier\obj\Debug\logictier.dll
+C:\Users\Zalman2\source\repos\lab21\logictier\obj\Debug\logictier.pdb

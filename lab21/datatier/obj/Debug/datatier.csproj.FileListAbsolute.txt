@@ -1,0 +1,6 @@
+C:\Users\Zalman2\source\repos\lab21\datatier\bin\Debug\datatier.dll
+C:\Users\Zalman2\source\repos\lab21\datatier\bin\Debug\datatier.pdb
+C:\Users\Zalman2\source\repos\lab21\datatier\obj\Debug\datatier.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab21\datatier\obj\Debug\datatier.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab21\datatier\obj\Debug\datatier.dll
+C:\Users\Zalman2\source\repos\lab21\datatier\obj\Debug\datatier.pdb
