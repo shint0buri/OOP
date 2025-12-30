@@ -1,0 +1,9 @@
+C:\Users\Zalman2\source\repos\lab17\bin\Debug\lab17.exe.config
+C:\Users\Zalman2\source\repos\lab17\bin\Debug\lab17.exe
+C:\Users\Zalman2\source\repos\lab17\bin\Debug\lab17.pdb
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.csproj.AssemblyReference.cache
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.Properties.Resources.resources
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.csproj.GenerateResource.cache
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.exe
+C:\Users\Zalman2\source\repos\lab17\obj\Debug\lab17.pdb
